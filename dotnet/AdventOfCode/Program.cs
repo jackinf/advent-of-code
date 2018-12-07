@@ -1,5 +1,4 @@
 ﻿using System;
-using AdventOfCode.Day02;
 
 namespace AdventOfCode
 {
@@ -7,7 +6,8 @@ namespace AdventOfCode
     {
         static void Main(string[] args)
         {
-            Part02.Run();
+            //Day02.Part02.Run();
+            Day03.Part01.Run();
             Console.ReadKey();
         }
     }

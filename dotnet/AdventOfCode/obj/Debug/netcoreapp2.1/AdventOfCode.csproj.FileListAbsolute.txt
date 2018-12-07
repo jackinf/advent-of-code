@@ -10,3 +10,4 @@ C:\dev\learning\advent-of-code\dotnet\AdventOfCode\obj\Debug\netcoreapp2.1\Adven
 C:\dev\learning\advent-of-code\dotnet\AdventOfCode\obj\Debug\netcoreapp2.1\AdventOfCode.AssemblyInfo.cs
 C:\dev\learning\advent-of-code\dotnet\AdventOfCode\obj\Debug\netcoreapp2.1\AdventOfCode.dll
 C:\dev\learning\advent-of-code\dotnet\AdventOfCode\obj\Debug\netcoreapp2.1\AdventOfCode.pdb
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\bin\Debug\netcoreapp2.1\Day03\input.txt
