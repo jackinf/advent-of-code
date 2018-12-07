@@ -1,0 +1,12 @@
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\bin\Debug\netcoreapp2.1\Day02\input.txt
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\bin\Debug\netcoreapp2.1\AdventOfCode.deps.json
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\bin\Debug\netcoreapp2.1\AdventOfCode.runtimeconfig.json
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\bin\Debug\netcoreapp2.1\AdventOfCode.runtimeconfig.dev.json
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\bin\Debug\netcoreapp2.1\AdventOfCode.dll
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\bin\Debug\netcoreapp2.1\AdventOfCode.pdb
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\obj\Debug\netcoreapp2.1\AdventOfCode.csprojAssemblyReference.cache
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\obj\Debug\netcoreapp2.1\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\obj\Debug\netcoreapp2.1\AdventOfCode.AssemblyInfoInputs.cache
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\obj\Debug\netcoreapp2.1\AdventOfCode.AssemblyInfo.cs
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\obj\Debug\netcoreapp2.1\AdventOfCode.dll
+C:\dev\learning\advent-of-code\dotnet\AdventOfCode\obj\Debug\netcoreapp2.1\AdventOfCode.pdb
